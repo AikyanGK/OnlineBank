@@ -1,0 +1,14 @@
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\bin\Debug\LA4_Carreon.exe.config
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\bin\Debug\LA4_Carreon.exe
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\bin\Debug\LA4_Carreon.pdb
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.csprojAssemblyReference.cache
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.Form1.resources
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.Form2.resources
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.Properties.Resources.resources
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.csproj.GenerateResource.cache
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.csproj.CoreCompileInputs.cache
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.exe
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.pdb
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.Form3.resources
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.Form4.resources
+C:\Users\GAB\source\repos\LA4_Carreon\LA4_Carreon\obj\Debug\LA4_Carreon.Form5.resources
